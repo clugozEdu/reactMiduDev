@@ -13,7 +13,7 @@ const users = [
   },
   {
     userName: "jlopezg",
-    avatar: "jose",
+    avatar: "jlopezg",
     isFollowing: false,
   },
 ];
