@@ -1,12 +1,18 @@
 {
-  "name": "reactmidudev",
-  "version": "1.0.0",
+  "author": "",
   "description": "Curso de React JS desde 0",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": ".node_modules/eslint-config-standard/eslintrc.json"
+  },
+  "keywords": [],
+  "license": "ISC",
   "main": "index.js",
+  "name": "reactmidudev",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "version": "1.0.0"
 }
